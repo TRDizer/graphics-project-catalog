@@ -1,3 +1,42 @@
+# CSC417/CSC2549 Physics-based Animation
 [submodule "CSC417_1d-mass-spring"]
 	path = CSC417_1d-mass-spring
 	url = https://github.com/TRDizer/CSC417_1d-mass-spring.git
+[submodule "CSC417_3d-mass-spring"]
+	path = CSC417_3d-mass-spring
+	url = https://github.com/TRDizer/CSC417_3d-mass-spring.git
+[submodule "CSC417_finite-element-method"]
+	path = CSC417_finite-element-method
+	url = https://github.com/TRDizer/CSC417_finite-element-method.git
+[submodule "CSC417_FEM-cloth"]
+	path = CSC417_FEM-cloth
+	url = https://github.com/TRDizer/CSC417_FEM-cloth.git
+[submodule "CSC417_rigid-body"]
+	path = CSC417_rigid-body
+	url = https://github.com/TRDizer/CSC417_rigid-body.git
+[submodule "CSC417_rigid-body-collision"]
+	path = CSC417_rigid-body-collision
+	url = https://github.com/TRDizer/CSC417_rigid-body-collision.git
+
+# CSC419/CSC2520 Geometry Processing	
+[submodule "CSC419_geometry-processing-introduction"]
+	path = CSC419_geometry-processing-introduction
+	url = https://github.com/TRDizer/CSC419_geometry-processing-introduction.git
+[submodule "CSC419_mesh-reconstruction"]
+	path = CSC419_mesh-reconstruction
+	url = https://github.com/TRDizer/CSC419_mesh-reconstruction.git
+[submodule "CSC419_iterative-closest-point"]
+	path = CSC419_iterative-closest-point
+	url = https://github.com/TRDizer/CSC419_iterative-closest-point.git
+[submodule "CSC419_surface-smoothing"]
+	path = CSC419_surface-smoothing
+	url = https://github.com/TRDizer/CSC419_surface-smoothing.git
+[submodule "CSC419_handle-based-deformation"]
+	path = CSC419_handle-based-deformation
+	url = https://github.com/TRDizer/CSC419_handle-based-deformation.git
+[submodule "CSC419_surface-parametrization"]
+	path = CSC419_surface-parametrization
+	url = https://github.com/TRDizer/CSC419_surface-parametrization.git
+[submodule "CSC419_curvature"]
+	path = CSC419_curvature
+	url = https://github.com/TRDizer/CSC419_curvature.git

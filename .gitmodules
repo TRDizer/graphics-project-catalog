@@ -1,0 +1,3 @@
+[submodule "CSC417_1d-mass-spring"]
+	path = CSC417_1d-mass-spring
+	url = https://github.com/TRDizer/CSC417_1d-mass-spring.git
